@@ -5,7 +5,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "5.11.2",
     "bootstrap": "4.3.1",
-    "jquery": "3.4.1",
+    "jquery": "3.5.0",
     "rc-pagination": "1.20.7",
     "react-datepicker": "2.9.6",
     "react-select": "3.0.5",
